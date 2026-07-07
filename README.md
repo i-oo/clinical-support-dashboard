@@ -1,5 +1,3 @@
-
-
 # Clinical Support Dashboard
 
 ![Status](https://img.shields.io/badge/status-in--development-yellow)
